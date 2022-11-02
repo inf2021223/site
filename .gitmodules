@@ -1,1 +1,7 @@
  
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/kselionis/_gallery
+[submodule "images"]
+	path = images
+	url = https://github.com/kselionis/images
