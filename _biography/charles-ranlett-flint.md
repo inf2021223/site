@@ -12,3 +12,5 @@ tags:
  - personal-computers
 
 ---
+
+{% include bio-flint.md %}
