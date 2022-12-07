@@ -14,4 +14,4 @@ tags:
 
 ---
 
-
+{% include cs-personal-computer.md %}
