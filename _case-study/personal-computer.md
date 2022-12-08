@@ -14,7 +14,4 @@ tags:
   - hp
   - Lenovo
   - Asus
-
 ---
-
-
