@@ -8,7 +8,7 @@ categories:
   - Αρχέτυπα
   - βιντεοκονσόλες
 tags:
-  - Ken Kutaragi 
+  - Ken Kutaragi
   - Super Nes
   - playStation1
   - playStation Portable
