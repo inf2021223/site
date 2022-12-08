@@ -8,4 +8,3 @@ slides:
   - mouse
   - scanner
 ---
- 
